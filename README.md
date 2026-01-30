@@ -1,4 +1,4 @@
-# Sysguad-newsletter
+# Réalisation d'un TP en référencement et programmation web (Sysguad Newsletter)
 
 ## TP à mettre en oeuvre
 [TP-CSS-Newsletter-Sysguard.docx.pdf](https://github.com/user-attachments/files/24956660/TP-CSS-Newsletter-Sysguard.docx.pdf)
